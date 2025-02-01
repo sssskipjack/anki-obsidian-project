@@ -1,16 +1,16 @@
-Use github as workspace to sync files across computers over syncthing
-(Syncthing is good for syncing personal files, however should not be used as primary workspace)
+## Workflow
 
-# MAIN OBJECTIVES
+- GIT & Github for file management
+- neovim as main ide
+- Obsidian for organisation and note taking
+- Everything takes places within git workspace
+- Each git workspace should be its own obsidian 
 
-Learn Emacs Org-read
+## MAIN OBJECTIVES
 
----
+- Best to use obsidian vim mode for the time being, learn more markdown syntax whilst trying to integrate obsidian into vim and start focusing on other productivity functionality 
 
-Alternatively just use obsidian
+## SIDE OBJECTIVES
 
 
-# SIDE OBJECTIVES
-
-* Setup up zathura
 
