@@ -1,0 +1,33 @@
+MY PROJECT -*- mode: org -*-
+
+* Starting Org mode
+** Our first Org document
+You have to start each org document as shown above, =Title -*- mode: org -*-=
+This will anable Org mode for this document, no matter what the file-ending is
+I guess if you have a .Org document already, you don't need the title however, if you're converting between md files and txt files, the tile might be useful to show that its org mode
+
+* Keep track of lists and Notes
+** Shortcuts
+- TAB /S-TAB (un)fold
+- M-up/down - move a headline up or down
+- M-left/right - promote or demote a headline
+- M-RET - insert a new headline
+
+** Working with lists
+Make sure to make good use of TAB and SHIFT-TAB for abstracting headlines
+The meta key (ALT) is also insanely powerful
+hjkl work as left/down/up/right respectively
+
+* Working with TODO items
+** Shortcuts
+- S-left arrow/right arrow - cycle type
+** [ ] todo 1
+** [-] todo 2
+** [?] todo 3
+** [X] todo 4
+
+* Agendas
+DEADLINE: <2025-02-12 Wed>
+Org mode is a very good in making differnt kinds of agendas, or task-lists, collecting all the tasks from one or more org-documents
+uu
+uddddddkiife iowiefjwoij        ikjdddkdddd  b bk

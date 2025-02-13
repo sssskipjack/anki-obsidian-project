@@ -1,0 +1,49 @@
+#+title: Introduction to EMACS
+#+author: Jack Zheng
+
+* 1st-level heading
+** 2nd-level heading
+paragraph 2
+
+
+* TODO  learn org
+** TODO read the orgmode.org/quickstart.html page
+
+* Markdown
+** Text modifiers
+You can use textmodifiers like: *BOLD*
+** Lists
+Unordered lists and ordered lists
+You can also use checkboxes [ ] in your lists
+1. Item 1
+2. Item 2
+   - Nested Item
+   + Nested Item
+
+- [ ] Not started
+- [-] In Progress
+- [X] Finished
+
+** Links
+look like this ~[[target]][desc]~
+[[https://orgmode.org]][orgmode website]
+
+** Images
+You just need to link an image, =[[path to image]]=
+You can also render images with the Emacs buffer C-c C-x C-v
+
+** BLOCKS
+#+BEGIN ... #+END
+This is what blocks quotes look like
+
+** TABLES
+Just use pipes
+| a | b | c |
+|---+---+---|
+| 1 | 2 | 3 |
+USE TAB to align the tables
+
+** COMMENTS
+# Line comments
+@@ inline comments wrap, similar to ```in python```@@
+BlOCKS are basically inline comments too

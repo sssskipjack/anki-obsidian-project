@@ -7,11 +7,6 @@
 - Everything takes places within git workspace
 - Each git workspace should be its own obsidian 
 
-### Power User software
-- neovim + extensions
-- vimium 
-    - Power usage is centralized around vim, no emacs 
-
 ### G24 + W-134
 1. Connect W-134 to Android Device Bridge  
 2. Change spoof new imei to W-134 | switch to telstra based service provider
@@ -21,14 +16,11 @@
 1. Boox most likely requires minimal setup, it is a kindle substitute, developing habit is most important 
 
 
-## MAIN OBJECTIVES
+## 4/2/2025
+Since I've been so bored, I've decided to learn vanila emacs, i'm currently editing this file in emacs.
+I've just opened this file using the chords, ctrl-x ctrl-f. I guess from now on C will represent the ctrl key
+This stuff really does remind me of nano
 
-- Best to use obsidian vim mode for the time being, learn more markdown syntax whilst trying to integrate obsidian into vim and start focusing on other productivity functionality 
-- Setup and integrate w-134 and boox
+I'm going to save this file now using C-x C-s
 
-
-
-
-
-
-
+i Guess I should just write down important commands, maybe i'll make a new file 
